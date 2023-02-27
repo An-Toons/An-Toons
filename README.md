@@ -1,6 +1,6 @@
 ![Header](https://github.com/An-Toons/An-Toons/blob/main/assets/AntoonspngNEW.png)
 
-About me
+## I’m currently learning Python, Django, MySQL, Postgresql
 
 Languages and Tools
 
